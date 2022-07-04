@@ -29,14 +29,13 @@ Tech books covering any of the following spaces are acceptable:
 
 ## Meeting
 Every Friday of the week · 12:00 – 1:00pm
+Google Meet joining info
+
+Video call link: https://meet.google.com/zpw-hnus-jvv
 
 ## Books
 - [Deep Work](https://www.calnewport.com/books/deep-work/)
   - [Summary](summary/deep-work/kola_summary.md)
-
-Google Meet joining info
-
-Video call link: https://meet.google.com/zpw-hnus-jvv
 
 ## Info
 - [Twitter](https://twitter.com/)
